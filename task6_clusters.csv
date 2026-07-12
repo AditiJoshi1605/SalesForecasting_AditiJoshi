@@ -1,0 +1,18 @@
+Sub-Category,Total_Sales,Average_Order_Value,Average_Monthly_Sales,Sales_Volatility,Growth_Rate,Cluster,Business Interpretation,Suggested Stocking Strategy
+Accessories,164186.7,217.17817460317463,3420.55625,2579.99480907113,0.39548249776855904,1,High Volume Stable Demand,Maintain continuous high stock levels using automated reorder points.
+Appliances,104618.403,227.92680392156865,2179.5500625,1821.6215390281989,0.5456452020766439,0,Growing Products,Increase order quantities incrementally and monitor trend closely.
+Art,26705.41,34.019630573248406,556.3627083333333,330.4883427284576,0.498254849075002,0,Growing Products,Increase order quantities incrementally and monitor trend closely.
+Binders,200028.785,134.0675502680965,4167.266354166667,3848.2236478754908,0.4638628849019984,1,High Volume Stable Demand,Maintain continuous high stock levels using automated reorder points.
+Bookcases,113813.1987,503.5982243362832,2474.1999717391304,2220.4050797251753,0.1426735163769595,3,Low Demand Products,Keep minimal stock or drop-ship to avoid warehousing costs.
+Chairs,322822.73099999997,531.8331647446457,6725.4735625,4407.232959811409,0.13744514318839984,1,High Volume Stable Demand,Maintain continuous high stock levels using automated reorder points.
+Copiers,146248.094,2215.8802121212125,4570.2529375,5500.774390527093,0.3579469404164649,2,Seasonal / Volatile Products,"Stock aggressively before known peak seasons, keep low otherwise."
+Envelopes,16128.046,65.03244354838709,350.6096956521739,228.21868781596007,-0.241905155964192,3,Low Demand Products,Keep minimal stock or drop-ship to avoid warehousing costs.
+Fasteners,3001.96,14.02785046728972,63.87148936170213,48.74222863268981,-0.0963780046794058,3,Low Demand Products,Keep minimal stock or drop-ship to avoid warehousing costs.
+Furnishings,89212.018,95.82386466165413,1858.5837083333333,1360.0178672616057,0.05064518998539612,3,Low Demand Products,Keep minimal stock or drop-ship to avoid warehousing costs.
+Labels,12347.726,34.587467787114846,257.2442916666667,223.47121839221342,0.3767146734654416,0,Growing Products,Increase order quantities incrementally and monitor trend closely.
+Machines,189238.631,1645.5533130434783,4852.272589743589,5603.554746739796,-0.22112143752739147,2,Seasonal / Volatile Products,"Stock aggressively before known peak seasons, keep low otherwise."
+Paper,76828.304,57.42025710014948,1600.5896666666667,1024.8249818349852,0.35317900522108464,0,Growing Products,Increase order quantities incrementally and monitor trend closely.
+Phones,327782.448,374.1808767123287,6828.801,4052.718220520821,0.3421200350460549,1,High Volume Stable Demand,Maintain continuous high stock levels using automated reorder points.
+Storage,219343.392,263.6338846153846,4569.6539999999995,2822.0843101166624,0.1586457138550418,1,High Volume Stable Demand,Maintain continuous high stock levels using automated reorder points.
+Supplies,46420.308,252.28428260869563,1055.0069999999998,2025.0941389159009,0.1200707257435303,3,Low Demand Products,Keep minimal stock or drop-ship to avoid warehousing costs.
+Tables,202810.628,645.8937197452229,4225.221416666666,3224.082504460717,0.002163025520220356,1,High Volume Stable Demand,Maintain continuous high stock levels using automated reorder points.
